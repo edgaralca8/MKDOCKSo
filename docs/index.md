@@ -1,0 +1,23 @@
+# Edgar Alcaraz Caballer
+## 1r ASIX
+
+### [1. Sistema operatiu](sistema-operatiu.md)
+Contingut sobre sistemes operatius...
+
+### [2. Punts de restauració](punts-restauracio.md)
+Contingut sobre punts de restauració...
+
+### [3. Llicenciament](llicenciament.md)
+Contingut sobre llicenciament...
+
+### [4. Gestors d’arrancada](gestors-darrancada.md)
+Contingut sobre gestors d’arrancada...
+
+### [5. Configuració xarxa bàsica](configuracio-xarxa-basica.md)
+Contingut sobre la configuració bàsica de xarxes...
+
+### [6. Comandes generals](comandes-generals.md)
+Contingut sobre comandes generals...
+
+### [7. Instal·lacions de programari](instal-lacions-programari.md)
+Contingut sobre instal·lacions de programari...
